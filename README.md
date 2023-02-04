@@ -1,16 +1,17 @@
-# flutterapp1
+# Flutter Login & Sign Up app.
 
-Flutter App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone project to any supported code editor and run the program.
 
-A few resources to get you started if this is your first Flutter project:
+Tools I used:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- VS Code
+- Android Studio
+- Android Emulator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Questions?
+Mail me @ jeevandevasiajohn@gmail.com
+
+Thank You 🖤
